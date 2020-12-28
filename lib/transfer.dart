@@ -69,7 +69,7 @@ class _TransferPageState extends State<TransferPage> {
           ),
           Positioned(
             top: 170,
-            height: MediaQuery.of(context).size.height - 230,
+            height: MediaQuery.of(context).size.height - 250,
             child: Column(
               children: [
                 Container(
